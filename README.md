@@ -1,15 +1,15 @@
-<img src="https://github.com/viisouza10/viisouza10/master/image/computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/viisouza10/viisouza10/master/images/computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador viisouza10">
 
 <p align="left"> 
   Olá meu nome é Vinicius Souza, sou desenvolvedor <strong>Full-Stack</strong>. E sou apaixonado por programação
 </p>
 
 <p align="left">
-  👨🏻‍💻 Habilidades: <strong>React Native, React JS, Nextjs Nestjs ,GraphQl,Postgress, Mongo, Aws, Nodejs</strong>
+  👨🏻‍💻 &nbsp  Habilidades: <strong>React Native, React JS, Nextjs Nestjs ,GraphQl,Postgress, Mongo, Aws, Nodejs</strong>
 </p>
 
 <p align="left">
-  ✉️ Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem:: ⤵️
+  ✉️ &nbsp Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem:: ⤵️
 </p>
 
 <p align="left">
