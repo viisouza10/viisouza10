@@ -2,9 +2,12 @@
 
 <p align="left"> 
   Olá meu nome é Vinicius Souza, sou desenvolvedor <strong>Full-Stack</strong>. 
-  E sou apaixonado por programação
 </p>
 
+<p align="left"> 
+ E sou apaixonado por programação
+ </p>
+ 
 <p align="left">
   👨🏻‍💻 &nbsp  Habilidades: <strong>React Native, React JS, Nextjs Nestjs ,GraphQl,Postgress, Mongo, Aws, Nodejs</strong>
 </p>
