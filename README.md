@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/viisouza10/viisouza10/master/images/computer.png?token=ABXOTOS5YJQUVTBXL7V2ZHDAH6QWU" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador viisouza10">
 
 <p align="left"> 
-  Olá meu nome é Vinicius Souza, sou desenvolvedor <strong>Full-Stack</strong>. 
-  E sou apaixonado por programação
+  Olá meu nome é Vinicius Souza, sou desenvolvedor <strong>Full-Stack</strong>.E sou apaixonado por programação
 </p>
 
 <p align="left">
