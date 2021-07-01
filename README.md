@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/viisouza10/viisouza10/master/images/computer.png?token=ABXOTOS5YJQUVTBXL7V2ZHDAH6QWU" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador viisouza10">
+<img src="https://raw.githubusercontent.com/viisouza10/viisouza10/master/images/computer.png?token=ABXOTOS5YJQUVTBXL7V2ZHDAH6QWU" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador vinicius souza">
 
 <p align="left"> 
   Olá meu nome é Vinicius Souza, sou desenvolvedor <strong>Full-Stack</strong>.   
